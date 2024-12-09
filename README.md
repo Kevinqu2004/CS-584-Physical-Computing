@@ -1,7 +1,7 @@
 # CS-584-Physical-Computing
 ## This is the Github Repo of Kevin Qu
 
-### Design Journal Entry 1 [Kevin Qu, Sept 16 2024, Hello Journal](https://kevinqu2004.github.io/CS-584-Physical-Computing/Kevin Qu%2C Sept. 16 2024%2C CS 584-3%2C Hello Journal.pdf)
+### Design Journal Entry 1 [Kevin Qu, Sept 16 2024, Hello Journal](https://github.com/Kevinqu2004/CS-584-Physical-Computing/blob/main/Kevin%20Qu%2C%20Sept.%2016%202024%2C%20CS%20584-3%2C%20Hello%20Journal.pdf)
 
 ### Design Journal Entry 2 [Kevin Qu, Oct 2 2024, Sharing Ideas](https://github.com/Kevinqu2004/CS-584-Physical-Computing/blob/main/Kevin%20Qu%2C%20Oct.%202%202024%2C%20CS%20584-3%2C%20Sharing%20Ideas.pdf)
 
